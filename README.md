@@ -1,6 +1,6 @@
 # Classificação de Doenças Foliares da Soja utilizando Redes Neurais Convolucionais
 
-Este repositório contém os códigos e o conjunto de dados utilizados no desenvolvimento de um Trabalho de Conclusão de Curso (TCC) em Ciência da Computação, cujo objetivo é comparar o desempenho de diferentes arquiteturas de redes neurais convolucionais (CNNs) na classificação automatizada de doenças foliares da soja.
+Este repositório contém os códigos e o conjunto de dados utilizados no desenvolvimento de um Trabalho de Conclusão de Curso (TCC) em Ciência da Computação, cujo objetivo é comparar o desempenho de diferentes arquiteturas de redes neurais convolucionais (CNNs) na classificação de doenças foliares da soja.
 
 O estudo utiliza técnicas de *transfer learning* e *fine-tuning*, avaliando três arquiteturas consolidadas: **MobileNetV2, ResNet50 e DenseNet121**. A comparação é realizada sob as mesmas condições experimentais, considerando métricas como acurácia, precisão, recall, F1-score e matrizes de confusão.
 
@@ -30,6 +30,6 @@ Os modelos foram treinados em duas etapas, com ajuste inicial das camadas de cla
 
 ## Avaliação
 
-O desempenho das arquiteturas foi analisado por meio de métricas de classificação e matrizes de confusão, permitindo comparar os resultados globais e identificar dificuldades na distinção entre as doenças avaliadas.
+O desempenho das arquiteturas foi analisado e comparado por meio de métricas de classificação e matrizes de confusão, permitindo comparar os resultados globais e identificar dificuldades na distinção entre as doenças avaliadas.
 
 Os experimentos têm como finalidade investigar a aplicação de redes neurais convolucionais como ferramenta de apoio à identificação automatizada de doenças foliares da soja.
