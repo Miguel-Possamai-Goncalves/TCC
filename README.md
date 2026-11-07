@@ -1,6 +1,6 @@
 # TCC-Classificacao-doencas-foliares-soja
 
-## Dataset
+## DATASET
 
 O conjunto contém 7.203 imagens de folhas de soja, distribuídas
 entre cinco classes. A descrição e o arquivo para download
