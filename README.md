@@ -27,8 +27,8 @@ As imagens foram divididas em treinamento, validação e teste nas proporções 
 
 As imagens disponibilizadas estão em RGB e possuem resolução de **224 × 224 pixels**.
 
-- [Descrição do conjunto de dados — Release v1.0](https://github.com/Miguel-Possamai-Goncalves/TCC-Classificacao-doencas-foliares-soja/releases/tag/v1.0)
-- [Download do DATASET.zip](https://github.com/Miguel-Possamai-Goncalves/TCC-Classificacao-doencas-foliares-soja/releases/download/v1.0/DATASET.zip)
+- [Descrição do conjunto de dados — Release v1.0](https://github.com/Miguel-Possamai-Goncalves/TCC/releases/tag/v1.0)
+- [Download do DATASET.zip](https://github.com/Miguel-Possamai-Goncalves/TCC/releases/download/v1.0/DATASET.zip)
 
 ## Notebooks
 
