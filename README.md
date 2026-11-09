@@ -2,7 +2,7 @@
 
 Este repositório contém os códigos e o conjunto de dados utilizados no desenvolvimento de um Trabalho de Conclusão de Curso (TCC) em Ciência da Computação, cujo objetivo é comparar o desempenho de redes neurais convolucionais na classificação de doenças foliares da soja.
 
-O estudo utiliza técnicas de *transfer learning* e *fine-tuning*, avaliando três arquiteturas: **MobileNetV2, ResNet50 e DenseNet121**. A avaliação considera acurácia, precisão, *recall*, F1-score e matrizes de confusão.
+O estudo utiliza técnicas de *transfer learning* e *fine-tuning*, avaliando três arquiteturas: **MobileNetV2, DenseNet121 e ResNet50**. A avaliação considera acurácia, precisão, *recall*, F1-score e matrizes de confusão.
 
 ## Conjunto de dados
 
@@ -13,6 +13,8 @@ O conjunto contém **7.203 imagens de folhas de soja**, distribuídas entre cinc
 - Mancha-olho-de-rã;
 - Crestamento foliar de Cercospora;
 - Folhas saudáveis.
+
+> **Observação sobre a nomenclatura:** a pasta `Mancha-púrpura` do dataset corresponde à classe **Crestamento foliar de Cercospora** apresentada no artigo e nas matrizes de confusão. Após os experimentos, a denominação foi corrigida para representar a condição foliar identificada no Dryad como *Cercospora leaf blight*. Embora o crestamento foliar e a mancha-púrpura das sementes possam ser causados pelo mesmo agente, como *Cercospora kikuchii*, os termos distinguem manifestações nas folhas e nas sementes. A alteração foi apenas de nomenclatura, sem modificar as imagens, a divisão dos dados, a ordem das classes ou os resultados obtidos.
 
 As imagens foram divididas em treinamento, validação e teste nas proporções aproximadas de **70%, 15% e 15%**, respectivamente.
 
