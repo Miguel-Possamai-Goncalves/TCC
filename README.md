@@ -36,9 +36,9 @@ Cada notebook realiza o treinamento e a avaliação de uma arquitetura.
 
 | Arquitetura | Código no GitHub | Executar no Colab |
 | --- | --- | --- |
-| MobileNetV2 | [Notebook](MobileNetV2/MobileNetV2.ipynb) | [Abrir no Colab](https://colab.research.google.com/github/Miguel-Possamai-Goncalves/TCC-Classificacao-doencas-foliares-soja/blob/main/MobileNetV2/MobileNetV2.ipynb) |
-| ResNet50 | [Notebook](ResNet50/ResNet50.ipynb) | [Abrir no Colab](https://colab.research.google.com/github/Miguel-Possamai-Goncalves/TCC-Classificacao-doencas-foliares-soja/blob/main/ResNet50/ResNet50.ipynb) |
-| DenseNet121 | [Notebook](DenseNet121/DenseNet121.ipynb) | [Abrir no Colab](https://colab.research.google.com/github/Miguel-Possamai-Goncalves/TCC-Classificacao-doencas-foliares-soja/blob/main/DenseNet121/DenseNet121.ipynb) |
+| MobileNetV2 | [Notebook](MobileNetV2/MobileNetV2.ipynb) | [Abrir no Colab](https://colab.research.google.com/github/Miguel-Possamai-Goncalves/TCC/blob/main/MobileNetV2/MobileNetV2.ipynb) |
+| DenseNet121 | [Notebook](DenseNet121/DenseNet121.ipynb) | [Abrir no Colab](https://colab.research.google.com/github/Miguel-Possamai-Goncalves/TCC/blob/main/DenseNet121/DenseNet121.ipynb) |
+| ResNet50 | [Notebook](ResNet50/ResNet50.ipynb) | [Abrir no Colab](https://colab.research.google.com/github/Miguel-Possamai-Goncalves/TCC/blob/main/ResNet50/ResNet50.ipynb) |
 
 ## Como reproduzir os experimentos
 
